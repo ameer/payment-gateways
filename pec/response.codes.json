@@ -1,0 +1,378 @@
+{
+    "-32768": [
+        "UnkownError",
+        "خطای ناشناخته رخ داده است"
+    ],
+    "-1552": [
+        "PaymentRequestIsNotEligibleToReversal",
+        "برگشت تراکنش مجاز نمی باشد"
+    ],
+    "-1551": [
+        "PaymentRequestIsAlreadyReversed",
+        "برگشت تراکنش قبلا انجام شده است"
+    ],
+    "-1550": [
+        "PaymentRequestStatusIsNotReversalable",
+        "برگشت تراکنش در وضعیت جاری امکان پذیرنمی باشد"
+    ],
+    "-1549": [
+        "MaxAllowedTimeToReversalHasExceeded",
+        "زمان مجاز برای درخواست برگشت تراکنشبه اتمام رسیده است"
+    ],
+    "-1548": [
+        "BillPaymentRequestServiceFailed",
+        "فراخوانی سرویس درخواست پرداخت قبض ناموفق بود"
+    ],
+    "-1540": [
+        "InvalidConfirmRequestService",
+        "تایید تراکنش ناموفق می باشد"
+    ],
+    "-1536": [
+        "TopupChargeServiceTopupChargeRequestFailed",
+        "فراخوانی سرویس درخواست شارژ تاپ آپ ناموفق بود"
+    ],
+    "-1533": [
+        "PaymentIsAlreadyConfirmed",
+        "تراکنش قبلاً تایید شده است"
+    ],
+    "-1532": [
+        "MerchantHasConfirmedPaymentRequest",
+        "تراکنش از سوی پذیرنده تایید شد"
+    ],
+    "-1531": [
+        "CannotConfirmNonSuccessfulPayment",
+        "تایید تراکنش ناموفق امکان پذیر نمی باشد"
+    ],
+    "-1530": [
+        "MerchantConfirmPaymentRequestAccessVaiolated",
+        "پذیرنده مجاز به تایید این تراکنش نمی باشد"
+    ],
+    "-1528": [
+        "ConfirmPaymentRequestInfoNotFound",
+        "اطلاعات پرداخت یافت نشد"
+    ],
+    "-1527": [
+        "CallSalePaymentRequestServiceFailed",
+        "انجام عملیات درخواست پرداخت تراکنشخرید ناموفق بود"
+    ],
+    "-1507": [
+        "ReversalCompleted",
+        "تراکنش برگشت به سوئیچ ارسال شد"
+    ],
+    "-1505": [
+        "PaymentConfirmRequested",
+        "تایید تراکنش توسط پذیرنده انجام شد"
+    ],
+    "-138": [
+        "CanceledByUser",
+        "عملیات پرداخت توسط کاربر لغو شد"
+    ],
+    "-132": [
+        "InvalidMinimumPaymentAmount",
+        "مبلغ تراکنش کمتر از حداقل مجاز میباشد"
+    ],
+    "-131": [
+        "InvalidToken",
+        "Tokenنامعتبر می باشد"
+    ],
+    "-130": [
+        "TokenIsExpired",
+        "Tokenزمان منقضی شده است"
+    ],
+    "-128": [
+        "InvalidIpAddressFormat",
+        "قالب آدرس IP معتبر نمی باشد"
+    ],
+    "-127": [
+        "InvalidMerchantIp",
+        "آدرس اینترنتی معتبر نمی باشد"
+    ],
+    "-126": [
+        "InvalidMerchantPin",
+        "کد شناسایی پذیرنده معتبر نمی باشد"
+    ],
+    "-121": [
+        "InvalidStringIsNumeric",
+        "رشته داده شده بطور کامل عددی نمی باشد"
+    ],
+    "-120": [
+        "InvalidLength",
+        "طول داده ورودی معتبر نمی باشد"
+    ],
+    "-119": [
+        "InvalidOrganizationId",
+        "سازمان نامعتبر می باشد"
+    ],
+    "-118": [
+        "ValueIsNotNumeric",
+        "مقدار ارسال شده عدد نمی باشد"
+    ],
+    "-117": [
+        "LenghtIsLessOfMinimum",
+        "طول رشته کم تر از حد مجاز می باشد"
+    ],
+    "-116": [
+        "LenghtIsMoreOfMaximum",
+        "طول رشته بیش از حد مجاز می باشد"
+    ],
+    "-115": [
+        "InvalidPayId",
+        "شناسه پرداخت نامعتبر می باشد"
+    ],
+    "-114": [
+        "InvalidBillId",
+        "شناسه قبض نامعتبر می باشد"
+    ],
+    "-113": [
+        "ValueIsNull",
+        "پارامتر ورودی خالی می باشد"
+    ],
+    "-112": [
+        "OrderIdDuplicated",
+        "شماره سفارش تکراری است"
+    ],
+    "-111": [
+        "InvalidMerchantMaxTransAmount",
+        "مبلغ تراکنش بیش از حد مجاز پذیرنده میباشد"
+    ],
+    "-108": [
+        "ReverseIsNotEnabled",
+        "قابلیت برگشت تراکنش برای پذیرنده غیرفعال می باشد"
+    ],
+    "-107": [
+        "AdviceIsNotEnabled",
+        "قابلیت ارسال تاییده تراکنش برای پذیرندهغیر فعال می باشد"
+    ],
+    "-106": [
+        "ChargeIsNotEnabled",
+        "قابلیت شارژ برای پذیرنده غیر فعال می باشد"
+    ],
+    "-105": [
+        "TopupIsNotEnabled",
+        "قابلیت تاپ آپ برای پذیرنده غیر فعال میباشد"
+    ],
+    "-104": [
+        "BillIsNotEnabled",
+        "قابلیت پرداخت قبض برای پذیرنده غیر فعالمی باشد"
+    ],
+    "-103": [
+        "SaleIsNotEnabled",
+        "قابلیت خرید برای پذیرنده غیر فعال می باشد"
+    ],
+    "-102": [
+        "ReverseSuccessful",
+        "تراکنش با موفقیت برگشت داده شد"
+    ],
+    "-101": [
+        "MerchantAuthenticationFailed",
+        "پذیرنده اهراز هویت نشد"
+    ],
+    "-100": [
+        "MerchantIsNotActive",
+        "پذیرنده غیرفعال می باشد"
+    ],
+    "-1": [
+        "ServerError",
+        "خطای سرور"
+    ],
+    "0": [
+        "Successful",
+        "عملیات موفق می باشد"
+    ],
+    "1": [
+        "DeclineIssuerCardToRefer",
+        "صادرکننده ی کارت از انجام تراکنش صرف نظر کرد"
+    ],
+    "2": [
+        "ReferToCardIssuerSpecialConditions",
+        "عملیات تاییدیه این تراکنش قبلا با موفقیت صورت پذیرفته است"
+    ],
+    "3": [
+        "InvalidMerchant",
+        "پذیرنده ی فروشگاهی نامعتبر می باشد"
+    ],
+    "5": [
+        "DoNotHonour",
+        "از انجام تراکنش صرف نظر شد"
+    ],
+    "6": [
+        "Error",
+        "بروز خطایی ناشناخته"
+    ],
+    "8": [
+        "HonourWithIdentification",
+        "  باتشخیص هویت دارنده ی کارت، تراکنش موفق می باشد"
+    ],
+    "9": [
+        "RequestInProgress",
+        "درخواست رسیده در حال پی گیری و انجام است"
+    ],
+    "10": [
+        "ApprovedForPartialAmount",
+        "   تراکنش با مبلغی پایین تر از مبلغ درخواستی (کمبود حساب مشتری) پذیرفته شده است"
+    ],
+    "12": [
+        "InvalidTransaction",
+        "تراکنش نامعتبر است"
+    ],
+    "13": [
+        "InvalidAmount",
+        " مبلغ تراکنش نادرست است"
+    ],
+    "14": [
+        "InvalidCard",
+        "Number   شماره کارت ارسالی نامعتبر است (وجودندارد)"
+    ],
+    "15": [
+        "NoSuchIssuer",
+        "  صادرکننده ی کارت نامعتبراست (وجودندارد)"
+    ],
+    "17": [
+        "CustomerCancellation",
+        " مشتری درخواست کننده حذف شده است"
+    ],
+    "20": [
+        "InvalidResponse",
+        " در موقعیتی که سوئیچ جهت پذیرش تراکنش نیازمند پرس و جو از کارت است ممکن است درخواست از کارت ( ترمینال) بنماید این پیام مبین نامعتبر بودن جواب است"
+    ],
+    "21": [
+        "NoActionTaken",
+        "  در صورتی که پاسخ به در خواست ترمینال نیازمند هیچ پاسخ خاص یا عملکردی نباشیم این پیام را خواهیم داشت"
+    ],
+    "22": [
+        "SuspectedMalfunction",
+        " تراکنش مشکوك به بد عمل کردن (کارت، ترمینال، دارنده کارت) بوده است لذا پذیرفته نشده است"
+    ],
+    "30": [
+        "FormatError",
+        " قالب پیام دارای اشکال است"
+    ],
+    "31": [
+        "BankNotSupportedBySwitch",
+        "پذیرنده توسط سوئیچ پشتیبانی نمی شود"
+    ],
+    "32": [
+        "CompletedPartially",
+        " تراکنش به صورت غیر قطعی کامل شده است"
+    ],
+    "33": [
+        "ExpiredCardPickUp",
+        " تاریخ انقضای کارت سپری شده است"
+    ],
+    "38": [
+        "AllowablePINTriesExceededPickUp",
+        "     تعداد دفعات ورود رمز غلط بیش از حدمجاز است.کارت توسط دستگاه ضبط شود"
+    ],
+    "39": [
+        "NoCreditAcount",
+        "  کارت حساب اعتباری ندارد"
+    ],
+    "40": [
+        "RequestedFunctionIsNotSupported",
+        "عملیات درخواستی پشتیبانی نمیگردد"
+    ],
+    "41": [
+        "LostCard",
+        " کارت مفقودی می باشد"
+    ],
+    "43": [
+        "StolenCard",
+        " کارت مسروقه می باشد"
+    ],
+    "45": [
+        "BillCanNotBePayed",
+        "قبض قابل پرداخت نمی‌باشد"
+    ],
+    "51": [
+        "NoSufficientFunds",
+        "  موجودی کافی نمی باشد"
+    ],
+    "54": [
+        "ExpiredAccount",
+        " تاریخ انقضای کارت سپری شده است"
+    ],
+    "55": [
+        "IncorrectPIN",
+        " رمز کارت نامعتبر است"
+    ],
+    "56": [
+        "NoCardRecord",
+        "  کارت نامعتبر است"
+    ],
+    "57": [
+        "TransactionNotPermittedToCardHolder",
+        "انجام تراکنش مربوطه توسط دارنده ی کارت مجاز نمی باشد"
+    ],
+    "58": [
+        "TransactionNotPermittedToTerminal",
+        "    انجام تراکنش مربوطه توسط پایانه ی انجام دهنده مجاز نمی باشد"
+    ],
+    "59": [
+        "SuspectedFraud-Decline",
+        "کارت مظنون به تقلب است"
+    ],
+    "61": [
+        "ExceedsWithdrawalAmountLimit",
+        " مبلغ تراکنش بیش از حد مجاز می باشد"
+    ],
+    "62": [
+        "RestrictedCard-Decline",
+        " کارت محدود شده است"
+    ],
+    "63": [
+        "SecurityViolation",
+        " تمهیدات امنیتی نقض گردیده است"
+    ],
+    "65": [
+        "ExceedsWithdrawalFrequencyLimit",
+        "   تعداد درخواست تراکنش بیش از حد مجاز می‌باشد"
+    ],
+    "68": [
+        "ResponseReceivedTooLate",
+        "   پاسخ لازم برای تکمیل یا انجام تراکنش خیلی دیر رسیده است"
+    ],
+    "69": [
+        "AllowabeNumberOfPINTriesExceeded",
+        "     تعداد دفعات تکرار رمز از حد مجاز گذشته است"
+    ],
+    "75": [
+        "PINRetiesExceeds-Slm",
+        "  تعداد دفعات ورود رمز غلط بیش از حدمجاز است"
+    ],
+    "78": [
+        "DeactivatedCard-Slm",
+        "کارت فعال نیست"
+    ],
+    "79": [
+        "InvalidAmount-Slm",
+        " حساب متصل به کارت نا معتبر است یا دارای اشکال است"
+    ],
+    "80": [
+        "TransactionDenied-Slm",
+        " درخواست تراکنش رد شده است"
+    ],
+    "81": [
+        "CancelledCard-Slm",
+        "کارت پذیرفته نشد"
+    ],
+    "83": [
+        "HostRefuse-Slm",
+        "سرویس دهنده سوئیچ کارت تراکنش را نپذیرفته است"
+    ],
+    "84": [
+        "IssuerDown-Slm",
+        " در تراکنشهایی که انجام آن مستلزم ارتباط با صادر کننده است در صورت فعال نبودن صادر کننده این پیام در پاسخ ارسال خواهد شد"
+    ],
+    "91": [
+        "IssuerOrSwitchIsInoperative",
+        "سیستم صدور مجوز انجام تراکنش موقتا غیرفعال است و یا زمان تعیین شده برای صدور مجوز به پایان رسیده است"
+    ],
+    "92": [
+        "FinancialInstOrIntermediateNetFacilityNotFoundForRouting",
+        "مقصد تراکنش پیدا نشد"
+    ],
+    "93": [
+        "TranactionCannotBeCompleted",
+        "امکان تکمیل تراکنش وجود ندارد"
+    ]
+}
